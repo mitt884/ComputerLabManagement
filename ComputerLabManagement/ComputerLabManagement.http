@@ -1,0 +1,6 @@
+@ComputerLabManagement_HostAddress = http://localhost:5107
+
+GET {{ComputerLabManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

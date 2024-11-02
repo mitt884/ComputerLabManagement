@@ -1,0 +1,7 @@
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.csproj.AssemblyReference.cache
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.AssemblyInfoInputs.cache
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.AssemblyInfo.cs
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.csproj.CoreCompileInputs.cache
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\letha\source\repos\ComputerLabManagement\ComputerLabManagement\obj\Debug\net8.0\ComputerLabManagement.MvcApplicationPartsAssemblyInfo.cache
